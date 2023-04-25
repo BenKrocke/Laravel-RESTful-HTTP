@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\SpellWizardController;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\WizardController;
 use App\Http\Controllers\SpellController;
