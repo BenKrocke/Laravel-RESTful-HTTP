@@ -20,6 +20,9 @@ Both `Wizard` and `Spell` support the embedding of relationships.
 /api/spells?embed=spell_type
 ```
 
+As this project exists purely to explore RESTful structure and HATEOAS, I have **not** implemented separate relationship
+resources to connect spells with Wizards. This may however be implemented at a later date.
+
 ## Routes
 
 ```
