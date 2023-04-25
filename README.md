@@ -1,4 +1,4 @@
-# Laravel HTTP RESTful API
+# Wizard API
 
 A (very) simple implementation of a RESTful API, including HATEOAS and content negotiation, to explore 'true'
 RESTfulness according
